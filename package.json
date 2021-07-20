@@ -9,7 +9,7 @@
   "dependencies": {
     "cross-fetch": "^3.0.3",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "weekday": "^3.0.1"
   },
   "devDependencies": {
